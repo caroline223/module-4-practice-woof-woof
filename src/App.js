@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import PupContainer from '../src/Containers/PupContainer'
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
       <div id="dog-summary-container">
         <h1>DOGGO:</h1>
         <div id="dog-info">
-
+          <PupContainer />
         </div>
       </div>
     </div>

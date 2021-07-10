@@ -43,9 +43,9 @@
   align-items: center;
 }
 
-#dog-info img {
-  max-width: 75vw;
-  max-height: 25vw;
+#dog-image {
+  width: 75vw;
+  height: 25vw;
 }
 
 body {
